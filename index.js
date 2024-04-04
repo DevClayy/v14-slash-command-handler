@@ -131,4 +131,4 @@ client.on('interactionCreate', async interaction => {
 
 
 
-client.login()
+client.login(DISCORD_TOKEN)
