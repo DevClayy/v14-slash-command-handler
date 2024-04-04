@@ -9,13 +9,13 @@ This is a simplistic version of a Discord.js V14 Slash Command handler for those
 - Fill out all of the required fields in the `index.js` file
 
 1) Initialize a new npm package:
-2) 
+   
 ```
 npm init -y
 ```
 
 3) Install all of the required packages:
-4) 
+   
 ```
 npm install
 ``` 
