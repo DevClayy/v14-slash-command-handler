@@ -28,4 +28,4 @@ npm install
 This was made for a friend, so if you need any assistance, add me on discord -> itsclayy.exe, or post in the "Issues" section of this repository. You can also join my personal discord:
 ```
 
-[My Discord](https://discord.gg/nECFn9MRDD)
+> [**Clayy's Domain**](https://discord.gg/nECFn9MRDD)
