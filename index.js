@@ -25,7 +25,7 @@ const {
 
 } = require('discord.js');
 const MAIN_SERVER_ID = 'MAIN_SERVER_ID_HERE'
-const DISCORD_TOKEN = 'INSERT_TOKEN_HERE
+const DISCORD_TOKEN = 'INSERT_TOKEN_HERE'
 const client = new Client({
     partials: [Partials.Message, Partials.Channel, Partials.Reaction],
 
