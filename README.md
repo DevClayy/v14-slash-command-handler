@@ -8,6 +8,8 @@ This is a simplistic version of a Discord.js V14 Slash Command handler for those
 - Open VSCode, click on `Open Folder`, and select the `new created folder`.
 - Fill out all of the required fields in the `index.js` file
 
+## VS Code Installation
+
 1) Initialize a new npm package:
    
 ```
