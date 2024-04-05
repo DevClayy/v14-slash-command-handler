@@ -121,7 +121,7 @@ client.on('interactionCreate', async interaction => {
         } catch (error) {
             if (error) console.error(error);
             await interaction.channel.send({
-                content: '> **There was an issue with this command!**\n> ``` ${error} ```',
+                content: `> **There was an issue with this command!**\n> \`\`\` ${error} \`\`\``,
                 ephemeral: true
             });
 
